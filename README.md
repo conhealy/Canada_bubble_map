@@ -10,3 +10,6 @@ Some of the commented out lines can colour each province to generate a heatmap.
 Get the shapefile by downloading Cartographic Boundary File for
 Provinces/territories from here:
 http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm
+
+Then place shapefile and associated files in a directory called shapefile
+inside the directory contained the ipynb file
