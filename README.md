@@ -1,4 +1,4 @@
-* Province Bubblemap in Python
+# Province Bubblemap in Python
 
 This is a bubble map with a bubble representing each Canadian province.
 The map is generated with matplotlib basemap.
